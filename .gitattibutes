@@ -1,0 +1,6 @@
+# Marcar arquivos de documentação como tal
+docs/** linguist-documentation
+*.md linguist-documentation
+
+# Força o reconhecimento dos arquivos Python como código principal
+*.py linguist-language=Python
