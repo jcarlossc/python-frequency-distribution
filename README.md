@@ -44,7 +44,7 @@ Essas medidas são amplamente utilizadas em análises exploratórias de dados e 
 
 ## 📌 Dustribuição de frequência do projeto
 
-| id | Classes |	Ponto Médio |	Freq. Absoluta |	Freq. Acumulada |	Freq. Relativa |	Freq. Relativa Acumulada |
+| id | Classes |	Ponto Médio |	Freq_Absoluta |	Freq_Acumulada |	Freq_Relativa |	Freq_Relativa_Acumulada |
 | -- | ------- | ------------ | --------------- | ---------------- | -------------- | ------------------------- |
 | 0 |	18-22 | 20.0 |	4 | 4	| 0.20 % | 0.20 % |
 | 1 | 22-26 | 24.0 |	5 | 9	| 0.25 % | 0.45 % |
