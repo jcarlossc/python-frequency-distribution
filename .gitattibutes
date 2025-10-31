@@ -3,4 +3,5 @@ docs/** linguist-documentation
 *.md linguist-documentation
 
 # Força o reconhecimento dos arquivos Python como código principal
-*.py linguist-language=Python
+*.ipynb linguist-detectable=false
+*.py linguist-detectable=true
