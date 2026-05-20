@@ -39,7 +39,6 @@
     "📌Blogger linguagem R: https://informaticus77-r.blogspot.com/<br>\n",
     "📌Blogger linguagem Python: https://informaticus77-python.blogspot.com/<br>\n",
     "📌Email: jcarlossc1977@gmail.com<br>\n",
-    "📌Portfólio em construção: https://portfolio-carlos-costa.netlify.app/<br>\n",
     "📌LinkedIn: https://www.linkedin.com/in/carlos-da-costa-669252149/<br>\n",
     "📌GitHub: https://github.com/jcarlossc<br>\n",
     "📌Kaggle: https://www.kaggle.com/jcarlossc/<br>\n",
